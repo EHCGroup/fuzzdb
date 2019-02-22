@@ -1,12 +1,11 @@
 /CFIDE/Administrator/
 /CFIDE/Administrator/Application.cfm
-/CFIDE/Administrator/index.cfm
-/CFIDE/administrator/aboutcf.cfm
 /CFIDE/Administrator/checkfile.cfm
 /CFIDE/Administrator/enter.cfm
 /CFIDE/Administrator/header.cfm
 /CFIDE/Administrator/homefile.cfm
 /CFIDE/Administrator/homepage.cfm
+/CFIDE/Administrator/index.cfm
 /CFIDE/Administrator/login.cfm
 /CFIDE/Administrator/logout.cfm
 /CFIDE/Administrator/navserver.cfm
@@ -40,6 +39,7 @@
 /CFIDE/adminapi/mail.cfc
 /CFIDE/adminapi/runtime.cfc
 /CFIDE/adminapi/security.cfc
+/CFIDE/administrator/aboutcf.cfm
 /CFIDE/classes/
 /CFIDE/classes/cf-j2re-win.cab
 /CFIDE/classes/cfapplets.jar

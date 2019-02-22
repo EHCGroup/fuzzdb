@@ -1,3 +1,8 @@
+/WEB-INF/
+/WEB-INF/classes/
+/WEB-INF/web.xml
+/conf/
+/conf/server.xml/
 /examples
 /examples/jsp/index.html
 /examples/jsp/snp/snoop.jsp
@@ -33,15 +38,10 @@
 /servlet/org.apache.catalina.servlets.ManagerServlet
 /servlet/org.apache.catalina.servlets.SnoopAllServlet
 /servlet/org.apache.catalina.servlets.WebdavServlet/
+/shared/
+/shared/lib/
 /tomcat-docs
 /webdav
 /webdav/index.html
 /webdav/servlet/org.apache.catalina.servlets.WebdavServlet/
 /webdav/servlet/webdav/
-/conf/
-/conf/server.xml/
-/WEB-INF/
-/WEB-INF/web.xml
-/WEB-INF/classes/
-/shared/
-/shared/lib/

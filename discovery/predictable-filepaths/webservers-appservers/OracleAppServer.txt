@@ -52,7 +52,6 @@
 /ccore
 /cgi-bin
 /console
-/console
 /console/*
 /console/help/*
 /dad
@@ -68,7 +67,6 @@
 /dms0/Spy
 /dmsoc4j
 /dmsoc4j/AggreSpy
-/dynamicImage
 /dynamicImage
 /dynamicImage/*
 /echo
@@ -101,7 +99,6 @@
 /ias/oc4j/app/appViewDesc.jsp
 /index.html
 /index.jsp
-/index_jsp
 /index_jsp
 /integration/services/EvidenceService/EvidenceService
 /integration/services/IdentityService/configuration

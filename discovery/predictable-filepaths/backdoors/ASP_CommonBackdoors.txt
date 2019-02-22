@@ -5,12 +5,16 @@ RemExp.asp
 aspxSH.asp
 aspxshell.aspx
 aspydrv.asp
+cmd-asp-5.1.asp
 cmd.asp
 cmd.aspx
+cmdasp.asp
+cmdasp.aspx
 cmdexec.aspx
 elmaliseker.asp
 filesystembrowser.aspx
 fileupload.aspx
+list.asp
 ntdaddy.asp
 spexec.aspx
 sql.aspx
@@ -23,7 +27,3 @@ zehir.asp
 zehir.aspx
 zehir4.asp
 zehir4.aspx
-cmd-asp-5.1.asp
-cmdasp.asp
-cmdasp.aspx
-list.asp

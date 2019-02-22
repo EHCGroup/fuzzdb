@@ -85,8 +85,8 @@ mpkg
 mzp
 oar
 p7m
-packgz
 package
+packgz
 pae
 pak
 paq6

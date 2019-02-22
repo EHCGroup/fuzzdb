@@ -5,10 +5,10 @@
 _admin
 _admin/operations.aspx
 _app_bin
+_catalogs/lt/forms/allitems.aspx
 _catalogs/masterpage/forms/allitems.aspx
 _catalogs/wp/forms/allitems.aspx
 _catalogs/wt/forms/common.aspx
-_catalogs/lt/forms/allitems.aspx
 _controltemplates
 _layouts
 _layouts/1033
